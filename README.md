@@ -4,7 +4,7 @@
 To run, execute these commands:
 
 
- `pip install -r requirements.txt`
+ `pip install -r requirements.txt` <br/>
 `python app.py`
 
 <br/>
